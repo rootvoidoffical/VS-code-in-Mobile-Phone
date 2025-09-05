@@ -10,19 +10,19 @@ NOW FOLLOW STEP BY STEP
 
 
  ```bash
- pkg update
+pkg update
  ```
 ```bash
- pkg upgrade
+pkg upgrade
  ```
 ```bash
-   pkg install proot-distro
+pkg install proot-distro
 ```
 ```bash
-    proot-distro list
+proot-distro list
 ```
 ```bash
-  proot-distro install ubuntu
+proot-distro install ubuntu
 ```
 
 ## Step 2. Login Ubuntu & Install Impoartent Peakge In Ubuntu.
@@ -30,22 +30,22 @@ Ubuntu is a free, open-source Linux operating system known for stability, securi
 
 
 ```bash
-  proot-disto login ubuntu
+proot-disto login ubuntu
 ```
 ```bash
-   apt update
+apt update
 ```
 ```bash
- apt upgrade
+apt upgrade
 ```
 ```bash
- apt install wget
+apt install wget
 ```
 ```bash
- wget https://github.com/coder/code-server/releases/download/v4.16.1/code-server-4.16.1-linux-arm64.tar.gz
+wget https://github.com/coder/code-server/releases/download/v4.16.1/code-server-4.16.1-linux-arm64.tar.gz
 ```
 ```bash
-  tar -xvf ./code-server-4.16.1-linux-arm64.tar.gz
+tar -xvf ./code-server-4.16.1-linux-arm64.tar.gz
 ```
 
 
@@ -57,7 +57,7 @@ cd code-server-4.16.1-linux-arm64
 cd bin
 ```
 ```bash
-       export PASSWORD="password"
+export PASSWORD="password"
 ```
 
 
@@ -75,5 +75,8 @@ cd bin
  Open any browser ans run this command
  ```bash
 localhoat:8080
+```
+
+Now time to enjoy.
 ```
 
