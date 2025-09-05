@@ -1,12 +1,12 @@
 # VS-code-in-Mobile-Phone
 
-#Intro
+# Intro
  In this post, we will see how you can install VS Code on an Android device. We will use one of the most popular Android terminal applications called Termux.
 Visual Studio Code on mobile is a lightweight, browser-based adaptation that lets you write, edit, and manage code directly from your phone. When connected with GitHub, it allows you to clone repositories, push changes, create commits, and collaborate on projects without needing a laptop. It is best used for quick edits, reviewing pull requests, or managing code on the go.
 
 NOW FOLLOW STEP BY STEP
 
-##Step 1. Install Importent Package  In Termux.
+## Step 1. Install Importent Package  In Termux.
 
 
  ```bash
@@ -25,7 +25,7 @@ NOW FOLLOW STEP BY STEP
   proot-distro install ubuntu
 ```
 
-##Step 2. Login Ubuntu & Install Impoartent Peakge In Ubuntu.
+## Step 2. Login Ubuntu & Install Impoartent Peakge In Ubuntu.
 Ubuntu is a free, open-source Linux operating system known for stability, security, and ease of use. It’s widely used for development, servers, and cloud computing.
 
 
@@ -49,7 +49,7 @@ Ubuntu is a free, open-source Linux operating system known for stability, securi
 ```
 
 
-##Step 3. Set password
+## Step 3. Set password
 
 
 ```bash
@@ -61,7 +61,7 @@ cd bin
 ```
 
 
-##Step 4. Run Server
+## Step 4. Run Server
 
 
 ```bash
@@ -69,7 +69,7 @@ cd bin
 ```
 
 
-##Final step. Open VS Code
+## Final step. Open VS Code
 
 
  Open any browser ans run this command
