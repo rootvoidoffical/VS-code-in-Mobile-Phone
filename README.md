@@ -30,7 +30,7 @@ Ubuntu is a free, open-source Linux operating system known for stability, securi
 
 
 ```bash
-proot-disto login ubuntu
+proot-distro login ubuntu
 ```
 ```bash
 apt update
