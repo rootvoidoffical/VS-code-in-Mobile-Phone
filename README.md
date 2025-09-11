@@ -74,9 +74,9 @@ export PASSWORD="password"
 
  Open any browser ans run this command
  ```bash
-localhoat:8080
+localhost:8080
 ```
 
 Now time to enjoy.
-```
+
 
